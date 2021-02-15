@@ -1,6 +1,14 @@
 # Svelte, Snowpack, and Tailwind CSS
 
-This repository contains the public facing Black Pearl homepage. The site is built with [Svelte](https://svelte.dev) and [Tailwind CSS](https://tailwindcss.com).
+This repository contains starter Svelte app with Tailwind CSS built using Snowpack within a VSCode devcontainer.
+
+__Features__
+
+- Svelte with Tailwind CSS starter app
+- Tailwind CSS Debug Screens to show screen size during development
+- Snowpack configured to optimize production build
+- Dockerfile and nginx configuration for production build
+- Several VSCode extensions to support Svelte/Tailwind development
 
 ## Major Frameworks and Dependencies
 
