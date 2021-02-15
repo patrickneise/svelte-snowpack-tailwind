@@ -11,7 +11,7 @@ __Features__
 - nginx config with caching and compression enabled
 - Several VSCode extensions to support Svelte/Tailwind development
 
-## Major Frameworks and Dependencies
+## Major Frameworks and Tools
 
 - [Svelte](https://svelte.dev/) - Front end development framework
 - [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework
