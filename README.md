@@ -14,7 +14,7 @@ This repository contains the public facing Black Pearl homepage. The site is bui
 Clone this repo into a folder for your project
 
 ```bash
-git clone github.com/patrickneise/svelte-snowpack-tailwind.git <your-project-name>
+git clone https://github.com/patrickneise/svelte-snowpack-tailwind.git <your-project-name>
 ```
 
 Change the origin to your project git repo
