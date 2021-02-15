@@ -69,3 +69,19 @@ On first run, default browser will open to [http://localhost:8080](http://localh
 Builds the app for production to the `build` folder.
 
 App will be built and optimized for performance with Snowpack.
+
+## Container 
+
+Build production container image:
+
+```bash
+docker build . -t <your/tag>
+```
+
+Run container locally:
+
+```bash
+docker run -p 8000:80 <your/tag>
+```
+
+App will be available at [http://localhost:8000](http://localhost:8000).
