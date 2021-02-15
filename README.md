@@ -8,6 +8,7 @@ __Features__
 - Tailwind CSS Debug Screens to show screen size during development
 - Snowpack configured to optimize production build
 - Dockerfile and nginx configuration for production build
+- nginx config with caching and compression enabled
 - Several VSCode extensions to support Svelte/Tailwind development
 
 ## Major Frameworks and Dependencies
