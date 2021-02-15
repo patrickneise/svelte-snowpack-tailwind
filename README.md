@@ -70,7 +70,7 @@ Builds the app for production to the `build` folder.
 
 App will be built and optimized for performance with Snowpack.
 
-## Container 
+## Production Container 
 
 Build production container image:
 
